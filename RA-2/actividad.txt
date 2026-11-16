@@ -1,0 +1,68 @@
+1-Tiene descuento y cumple los dos requisitos de ayuda
+
+Introuduce su nombre y apelliddos:Laura Garcia
+Introduce su edad:19
+Introduce el numero de modulos que has cursado:6
+Introduce el precio de los modulos:45
+Introduce su nota media:8.2
+Introduce su distancia al centro(KM):32
+====== RESUMEN DE MATRÍCULA ======
+
+Alumno: Laura Garcia
+Edad: 19
+Modulos matriculados: 6
+Precio por modulo: 45.0 
+
+Importe inicial: 270.0
+Descuento: 27.0
+Importe final: 27.0 
+
+Nota media: 8.2
+Distancia al centro: 32.0 KM
+Cumple con los requisitos para solicitar la ayuda: True
+
+2-No tiene descuento y no cumple los requisitos de ayuda.
+
+Introuduce su nombre y apelliddos:Pepe Garcia
+Introduce su edad:47
+Introduce el numero de modulos que has cursado:2
+Introduce el precio de los modulos:45
+Introduce su nota media:5
+Introduce su distancia al centro(KM):0
+====== RESUMEN DE MATRÍCULA ======
+
+Alumno: Pepe Garcia
+Edad: 47 años
+Modulos matriculados: 2
+Precio por modulo: 45.0
+
+Importe inicial: 90.0
+Descuento: 0
+Importe final: 90.0
+
+Nota media: 5.0
+Distancia al centro: 0.0 KM
+Cumple con los requisitos para solicitar la ayuda: False
+
+3-Solo cumple uno de los dos requisitos de ayuda
+
+Introuduce su nombre y apelliddos:Maria del Carmen Carretero
+Introduce su edad:15
+Introduce el numero de modulos que has cursado:1
+Introduce el precio de los modulos:45
+Introduce su nota media:10
+Introduce su distancia al centro(KM):5
+====== RESUMEN DE MATRÍCULA ======
+
+Alumno: Maria del Carmen Carretero
+Edad: 15 años
+Modulos matriculados: 1
+Precio por modulo: 45.0
+
+Importe inicial: 45.0
+Descuento: 0
+Importe final: 45.0
+
+Nota media: 10.0
+Distancia al centro: 5.0 KM
+Cumple con los requisitos para solicitar la ayuda: False
